@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AstroAI",
+    "slug": "astro-ai",
+    "owner": "sunny1024",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "icon": "./icon.png",
+    "splash": {
+      "backgroundColor": "#0a0015"
+    },
+    "android": {
+      "package": "com.sunny1024.astroai",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "PASTE-YOUR-PROJECT-ID-HERE"
+      }
+    }
+  }
+}
